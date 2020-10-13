@@ -106,7 +106,5 @@ public class StringMethods {
 		
 		System.out.println("17.) (char oldChar, char newChar) --> "+replace1);
 		
-
-
 	}
 }
